@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509925721106",
+    "project_id": "adrequestlibrary",
+    "storage_bucket": "adrequestlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509925721106:android:dbd59fd4768ed1afae84cb",
+        "android_client_info": {
+          "package_name": "com.example.adrequestlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XWMyN1lV9pO2qgUNeWknoXE65zWvSbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
