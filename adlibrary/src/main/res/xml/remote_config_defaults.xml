@@ -2,6 +2,6 @@
 <defaultsMap>
     <entry>
         <key>ad_unit_ids</key>
-        <value>{}</value>
+        <value>{"AdMob":"ca-app-pub-3940256099942544/9214589741","AdMob_Interstitial":"ca-app-pub-3940256099942544/1033173712","ironSource_Banner":"ike7avbz7rtae495_test","ironSource_Interstitial":"xt0fxda6y1ix7cx3_test"}</value>
     </entry>
 </defaultsMap>
