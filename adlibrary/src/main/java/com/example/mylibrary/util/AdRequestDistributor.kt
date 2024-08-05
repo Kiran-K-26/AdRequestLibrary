@@ -31,8 +31,8 @@ import java.util.ArrayList
 class AdRequestDistributor {
 
     private var adNetworkIndex = 0
-    private val adNetworks = listOf("AdMob", "AdMob")
-    private val adNetworksInterstitial = listOf("AdMob_Interstitial", "AdMob_Interstitial")
+    private val adNetworks = listOf("AdMob", "ironSource_Banner")
+    private val adNetworksInterstitial = listOf("AdMob_Interstitial", "ironSource_Interstitial")
 
     fun getAdNetworksForBatch(batchSize: Int): List<String> {
         val batch = ArrayList<String>()
